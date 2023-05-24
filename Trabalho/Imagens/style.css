@@ -1,0 +1,12 @@
+h1 {display:flex;
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cadastro {align-items: left;
+justify-content: left;
+display: flex;
+}
